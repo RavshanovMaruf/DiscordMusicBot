@@ -1,5 +1,5 @@
 server: # REST and WS server
-  port: 2111
+  port: 2333
   address: 0.0.0.0
 spring:
   main:
