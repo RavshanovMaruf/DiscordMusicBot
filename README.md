@@ -5,6 +5,8 @@ Instructions how to use:
 
 First write your discord bot token inside config.json file.
 
+Write connection string inside Mysql/Connection.cs.
+
 Install java sdk 11.0 and below.
 
 Git Bash inside DiscordTestBot folder.
