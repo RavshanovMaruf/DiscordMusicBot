@@ -9,7 +9,7 @@ namespace DiscordTestBot.MySql
 {
     class Connection
     {
-        private MySqlConnection connection = new MySqlConnection("server=db4free.net;port=3306;username=maruf_rav;password=30082002maruf;database=discord_bot_mar");
+        private MySqlConnection connection = new MySqlConnection("Write here your connection string");
         
         public bool OpenConnection()
         {
